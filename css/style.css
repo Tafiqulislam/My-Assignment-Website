@@ -1,0 +1,164 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+
+.header-style{
+    background-color: black;
+    width: 1500px;
+    height: 600px;
+    background-image: url('photo/Banner\ Image.png');
+    margin:50px auto;
+    border-radius: 16px;
+
+}
+/* headding1-style */
+.headding1{
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+/* headding2-style */
+.headding2{
+    margin: auto auto;
+    width: 500px;
+    color: #000000;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.main-h3{
+    color: #f00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.main-h4{
+    color: #f00;
+    text-align:center;
+    font-size: 24px;
+    font-weight: 500px;
+    padding-top: 0;
+}
+
+.main-h5{
+    color: #000000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.main-div1{
+    width: 802.9px;
+    height: 500px;
+    background-image: url(photo/New\ Year\ Photo.png);
+    margin: 15px auto;
+}
+
+.main-div2{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url(photo/Vectorrr.png);
+    margin: 50px auto;
+}
+.clum-div1{
+    width: 500px;
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.clum-div-title{
+    color: #fff;
+    font-size:64px;
+    font-weight: 900;
+}
+.main-p1{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 25px;
+    font-weight: 400px;
+}
+.main-button1{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    background-color: #000000;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.main-button1:hover{
+    background-color: #212020;
+}
+
+.main-div2{
+    display: flex;
+}
+.image-div{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+section{
+    width: 1320px;
+    height: 482px;
+    background-color: rgb(247, 239, 228);
+    margin: 30px auto;
+}
+
+.section-div1{
+    width: 1320px;
+    height: 482px;
+    text-align:center;
+    padding-top: 50px;
+    margin-top: 80px;
+}
+.section-div1,h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+span{
+    color: #f00;
+}
+.section-button1{
+    background-color: #f00;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.section-button1:hover{
+    background-color: rgb(220, 49, 49);
+}
+#section{
+    width: 1320px;
+    height: 482px;
+    background-color: #f9eded;
+    margin-top: 50px;
+}
+.id-section-div{
+    width: 250px;
+    height: 500px;
+    margin-left: 1000px;
+    padding-top: 80px;
+}
+.id-h2{
+    color: #f00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.di-section-p1{
+    color: #333232;
+    font-size: 20px;
+    font-weight: 400;
+}
