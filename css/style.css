@@ -257,4 +257,69 @@ span{
 .section-image-main-div{
     display: flex;
     padding: 10px;
+    padding-left: 10px;
+}
+
+.section-id-div{
+    padding-left: 20px;
+}
+.section-id-div:hover{
+    border-style:solid;
+    border-color: #f0e6e6;
+    border-width: 5px;
+    background-size: 300px;
+}
+.section5{
+    width: 1320px;
+    height: 650px;
+    margin-top: 30%;
+}
+
+.section-5-div1{
+    width: auto;
+    padding-top: 60px;
+    margin-left: 570px;
+}
+
+.section5-div2{
+    width: 500px;
+    margin: 50px auto;
+}
+.section5-h2-1{
+    color: #000000;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform:capitalize;
+}
+
+.section5-p-1{
+    color: #333232;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.input-section{
+    width: 500px;
+    height: 72;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #fff;
+    font-size: 25px;
+}
+
+.button1{
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 30px;
+    margin: 5px auto;
+    background-color: rgb(250, 0, 0);
+    font-weight: bold;
+}
+.button1:hover{
+    background-color: rgb(251, 50, 50);
+    font-size: 26px;
 }
