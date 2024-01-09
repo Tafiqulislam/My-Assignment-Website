@@ -142,7 +142,7 @@ span{
     color: #f00;
 }
 .section-button1{
-    background-color: #f00;
+    background-color: rgb(224, 58, 58);
     padding: 10px;
     border: none;
     border-radius: 6px;
@@ -150,7 +150,7 @@ span{
     font-weight: bold;
 }
 .section-button1:hover{
-    background-color: rgb(220, 49, 49);
+    background-color: rgb(251, 4, 4);
 }
 #section{
     width: 1320px;
@@ -222,7 +222,7 @@ span{
     line-height: 32px;
 }
 .section-3{
-    background-color: #f0e6e6;
+    background-color: #ffffff;
 }
 
 .section3-div1{
@@ -253,6 +253,41 @@ span{
     font-size: 24px;
     font-weight: 500px;
 }
+
+
+.image-style-setion{
+    width: 1800px;
+    height: 700px;
+    margin: 50px auto;
+}
+.image-style-section-div1{
+    position: relative;
+    margin-left: 1200px;
+}
+.group-44{
+    position: relative;
+    top: -400px;
+    margin-left: 980px;
+}
+.rectangle-2{
+    width: 1420px;
+    position:relative;
+    top: -350px;
+    margin-left: 210px;
+}
+.group-75{
+    position: relative;
+    top: -1000px;
+    margin-left: 300px;
+}
+
+
+
+
+
+
+
+
 .section4-h21{
     color: #000000;
     font-size: 48px;
@@ -312,7 +347,7 @@ span{
 
 .input-section{
     width: 400px;
-    height: 72;
+    height: 39px;
     padding: 10px;
     background-color: #fff;
     font-size: 25px;
@@ -327,9 +362,9 @@ span{
 
 .button1{
     width: 150px;
-    height: 50px;
+    height: 60px;
     font-size: 25px;
-    background-color: rgb(250, 0, 0);
+    background-color: rgb(243, 9, 9);
     font-weight: bold;
     margin-left: 0px;
     border-bottom-right-radius: 50px;
